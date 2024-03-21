@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jsn\\source\\repos\\Desmer11\\CSharp.Homework\\Homework.Class.02\\Task.01.AverageNumber\\Task.01.AverageNumber.csproj": {}
+    "C:\\Users\\Jsn\\Source\\Repos\\Desmer11\\CSharp.Homework\\Homework.Class.02\\Task.01.AverageNumber\\Task.01.AverageNumber.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jsn\\source\\repos\\Desmer11\\CSharp.Homework\\Homework.Class.02\\Task.01.AverageNumber\\Task.01.AverageNumber.csproj": {
+    "C:\\Users\\Jsn\\Source\\Repos\\Desmer11\\CSharp.Homework\\Homework.Class.02\\Task.01.AverageNumber\\Task.01.AverageNumber.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jsn\\source\\repos\\Desmer11\\CSharp.Homework\\Homework.Class.02\\Task.01.AverageNumber\\Task.01.AverageNumber.csproj",
+        "projectUniqueName": "C:\\Users\\Jsn\\Source\\Repos\\Desmer11\\CSharp.Homework\\Homework.Class.02\\Task.01.AverageNumber\\Task.01.AverageNumber.csproj",
         "projectName": "Task.01.AverageNumber",
-        "projectPath": "C:\\Users\\Jsn\\source\\repos\\Desmer11\\CSharp.Homework\\Homework.Class.02\\Task.01.AverageNumber\\Task.01.AverageNumber.csproj",
+        "projectPath": "C:\\Users\\Jsn\\Source\\Repos\\Desmer11\\CSharp.Homework\\Homework.Class.02\\Task.01.AverageNumber\\Task.01.AverageNumber.csproj",
         "packagesPath": "C:\\Users\\Jsn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jsn\\source\\repos\\Desmer11\\CSharp.Homework\\Homework.Class.02\\Task.01.AverageNumber\\obj\\",
+        "outputPath": "C:\\Users\\Jsn\\Source\\Repos\\Desmer11\\CSharp.Homework\\Homework.Class.02\\Task.01.AverageNumber\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jsn\\AppData\\Roaming\\NuGet\\NuGet.Config",

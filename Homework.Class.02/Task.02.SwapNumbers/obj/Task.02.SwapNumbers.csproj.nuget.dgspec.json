@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jsn\\source\\repos\\Desmer11\\CSharp.Homework\\Homework.Class.02\\Task.02.SwapNumbers\\Task.02.SwapNumbers.csproj": {}
+    "C:\\Users\\Jsn\\Source\\Repos\\Desmer11\\CSharp.Homework\\Homework.Class.02\\Task.02.SwapNumbers\\Task.02.SwapNumbers.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jsn\\source\\repos\\Desmer11\\CSharp.Homework\\Homework.Class.02\\Task.02.SwapNumbers\\Task.02.SwapNumbers.csproj": {
+    "C:\\Users\\Jsn\\Source\\Repos\\Desmer11\\CSharp.Homework\\Homework.Class.02\\Task.02.SwapNumbers\\Task.02.SwapNumbers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jsn\\source\\repos\\Desmer11\\CSharp.Homework\\Homework.Class.02\\Task.02.SwapNumbers\\Task.02.SwapNumbers.csproj",
+        "projectUniqueName": "C:\\Users\\Jsn\\Source\\Repos\\Desmer11\\CSharp.Homework\\Homework.Class.02\\Task.02.SwapNumbers\\Task.02.SwapNumbers.csproj",
         "projectName": "Task.02.SwapNumbers",
-        "projectPath": "C:\\Users\\Jsn\\source\\repos\\Desmer11\\CSharp.Homework\\Homework.Class.02\\Task.02.SwapNumbers\\Task.02.SwapNumbers.csproj",
+        "projectPath": "C:\\Users\\Jsn\\Source\\Repos\\Desmer11\\CSharp.Homework\\Homework.Class.02\\Task.02.SwapNumbers\\Task.02.SwapNumbers.csproj",
         "packagesPath": "C:\\Users\\Jsn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jsn\\source\\repos\\Desmer11\\CSharp.Homework\\Homework.Class.02\\Task.02.SwapNumbers\\obj\\",
+        "outputPath": "C:\\Users\\Jsn\\Source\\Repos\\Desmer11\\CSharp.Homework\\Homework.Class.02\\Task.02.SwapNumbers\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jsn\\AppData\\Roaming\\NuGet\\NuGet.Config",

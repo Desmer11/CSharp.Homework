@@ -1,0 +1,14 @@
+C:\Users\Jsn\source\repos\Desmer11\CSharp.Homework\Homework.Class.03\SumOfEvenWithInputs\bin\Debug\net6.0\SumOfEvenWithInputs.exe
+C:\Users\Jsn\source\repos\Desmer11\CSharp.Homework\Homework.Class.03\SumOfEvenWithInputs\bin\Debug\net6.0\SumOfEvenWithInputs.deps.json
+C:\Users\Jsn\source\repos\Desmer11\CSharp.Homework\Homework.Class.03\SumOfEvenWithInputs\bin\Debug\net6.0\SumOfEvenWithInputs.runtimeconfig.json
+C:\Users\Jsn\source\repos\Desmer11\CSharp.Homework\Homework.Class.03\SumOfEvenWithInputs\bin\Debug\net6.0\SumOfEvenWithInputs.dll
+C:\Users\Jsn\source\repos\Desmer11\CSharp.Homework\Homework.Class.03\SumOfEvenWithInputs\bin\Debug\net6.0\SumOfEvenWithInputs.pdb
+C:\Users\Jsn\source\repos\Desmer11\CSharp.Homework\Homework.Class.03\SumOfEvenWithInputs\obj\Debug\net6.0\SumOfEvenWithInputs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jsn\source\repos\Desmer11\CSharp.Homework\Homework.Class.03\SumOfEvenWithInputs\obj\Debug\net6.0\SumOfEvenWithInputs.AssemblyInfoInputs.cache
+C:\Users\Jsn\source\repos\Desmer11\CSharp.Homework\Homework.Class.03\SumOfEvenWithInputs\obj\Debug\net6.0\SumOfEvenWithInputs.AssemblyInfo.cs
+C:\Users\Jsn\source\repos\Desmer11\CSharp.Homework\Homework.Class.03\SumOfEvenWithInputs\obj\Debug\net6.0\SumOfEvenWithInputs.csproj.CoreCompileInputs.cache
+C:\Users\Jsn\source\repos\Desmer11\CSharp.Homework\Homework.Class.03\SumOfEvenWithInputs\obj\Debug\net6.0\SumOfEvenWithInputs.dll
+C:\Users\Jsn\source\repos\Desmer11\CSharp.Homework\Homework.Class.03\SumOfEvenWithInputs\obj\Debug\net6.0\refint\SumOfEvenWithInputs.dll
+C:\Users\Jsn\source\repos\Desmer11\CSharp.Homework\Homework.Class.03\SumOfEvenWithInputs\obj\Debug\net6.0\SumOfEvenWithInputs.pdb
+C:\Users\Jsn\source\repos\Desmer11\CSharp.Homework\Homework.Class.03\SumOfEvenWithInputs\obj\Debug\net6.0\SumOfEvenWithInputs.genruntimeconfig.cache
+C:\Users\Jsn\source\repos\Desmer11\CSharp.Homework\Homework.Class.03\SumOfEvenWithInputs\obj\Debug\net6.0\ref\SumOfEvenWithInputs.dll

@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jsn\\source\\repos\\Desmer11\\CSharp.Homework\\Homework.Class.03\\Task.02.StudentGroup\\Task.02.StudentGroup.csproj": {}
+    "C:\\Users\\Jsn\\Source\\Repos\\Desmer11\\CSharp.Homework\\Homework.Class.03\\Task.02.StudentGroup\\Task.02.StudentGroup.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jsn\\source\\repos\\Desmer11\\CSharp.Homework\\Homework.Class.03\\Task.02.StudentGroup\\Task.02.StudentGroup.csproj": {
+    "C:\\Users\\Jsn\\Source\\Repos\\Desmer11\\CSharp.Homework\\Homework.Class.03\\Task.02.StudentGroup\\Task.02.StudentGroup.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jsn\\source\\repos\\Desmer11\\CSharp.Homework\\Homework.Class.03\\Task.02.StudentGroup\\Task.02.StudentGroup.csproj",
+        "projectUniqueName": "C:\\Users\\Jsn\\Source\\Repos\\Desmer11\\CSharp.Homework\\Homework.Class.03\\Task.02.StudentGroup\\Task.02.StudentGroup.csproj",
         "projectName": "Task.02.StudentGroup",
-        "projectPath": "C:\\Users\\Jsn\\source\\repos\\Desmer11\\CSharp.Homework\\Homework.Class.03\\Task.02.StudentGroup\\Task.02.StudentGroup.csproj",
+        "projectPath": "C:\\Users\\Jsn\\Source\\Repos\\Desmer11\\CSharp.Homework\\Homework.Class.03\\Task.02.StudentGroup\\Task.02.StudentGroup.csproj",
         "packagesPath": "C:\\Users\\Jsn\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Jsn\\source\\repos\\Desmer11\\CSharp.Homework\\Homework.Class.03\\Task.02.StudentGroup\\obj\\",
         "projectStyle": "PackageReference",
