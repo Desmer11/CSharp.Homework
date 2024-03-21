@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jsn\\Source\\Repos\\Desmer11\\CSharp.Homework\\Homework.Class.03\\Task.01.SumOfEven\\Task.01.SumOfEven.csproj": {}
+    "C:\\Users\\Jsn\\source\\repos\\Qinshift\\CSharp.Homework\\Homework.Class.03\\Task.01.SumOfEven\\Task.01.SumOfEven.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jsn\\Source\\Repos\\Desmer11\\CSharp.Homework\\Homework.Class.03\\Task.01.SumOfEven\\Task.01.SumOfEven.csproj": {
+    "C:\\Users\\Jsn\\source\\repos\\Qinshift\\CSharp.Homework\\Homework.Class.03\\Task.01.SumOfEven\\Task.01.SumOfEven.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jsn\\Source\\Repos\\Desmer11\\CSharp.Homework\\Homework.Class.03\\Task.01.SumOfEven\\Task.01.SumOfEven.csproj",
+        "projectUniqueName": "C:\\Users\\Jsn\\source\\repos\\Qinshift\\CSharp.Homework\\Homework.Class.03\\Task.01.SumOfEven\\Task.01.SumOfEven.csproj",
         "projectName": "Task.01.SumOfEven",
-        "projectPath": "C:\\Users\\Jsn\\Source\\Repos\\Desmer11\\CSharp.Homework\\Homework.Class.03\\Task.01.SumOfEven\\Task.01.SumOfEven.csproj",
+        "projectPath": "C:\\Users\\Jsn\\source\\repos\\Qinshift\\CSharp.Homework\\Homework.Class.03\\Task.01.SumOfEven\\Task.01.SumOfEven.csproj",
         "packagesPath": "C:\\Users\\Jsn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jsn\\source\\repos\\Desmer11\\CSharp.Homework\\Homework.Class.03\\Task.01.SumOfEven\\obj\\",
+        "outputPath": "C:\\Users\\Jsn\\source\\repos\\Qinshift\\CSharp.Homework\\Homework.Class.03\\Task.01.SumOfEven\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jsn\\AppData\\Roaming\\NuGet\\NuGet.Config",

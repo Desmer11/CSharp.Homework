@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jsn\\source\\repos\\Desmer11\\CSharp.Homework\\Homework.Class.07\\Task.01.Shape.Class\\Shape.Class.csproj",
+      "projectUniqueName": "C:\\Users\\Jsn\\source\\repos\\Qinshift\\CSharp.Homework\\Homework.Class.07\\Task.01.Shape.Class\\Shape.Class.csproj",
       "projectName": "Shape.Class",
-      "projectPath": "C:\\Users\\Jsn\\source\\repos\\Desmer11\\CSharp.Homework\\Homework.Class.07\\Task.01.Shape.Class\\Shape.Class.csproj",
+      "projectPath": "C:\\Users\\Jsn\\source\\repos\\Qinshift\\CSharp.Homework\\Homework.Class.07\\Task.01.Shape.Class\\Shape.Class.csproj",
       "packagesPath": "C:\\Users\\Jsn\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jsn\\source\\repos\\Desmer11\\CSharp.Homework\\Homework.Class.07\\Task.01.Shape.Class\\obj\\",
+      "outputPath": "C:\\Users\\Jsn\\source\\repos\\Qinshift\\CSharp.Homework\\Homework.Class.07\\Task.01.Shape.Class\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Jsn\\AppData\\Roaming\\NuGet\\NuGet.Config",

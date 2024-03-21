@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jsn\\source\\repos\\Desmer11\\CSharp.Homework\\Homework.Class.05\\Task.01.CreateDog\\HomeWorkClass05.CreateDog.csproj",
+      "projectUniqueName": "C:\\Users\\Jsn\\source\\repos\\Qinshift\\CSharp.Homework\\Homework.Class.05\\Task.01.CreateDog\\HomeWorkClass05.CreateDog.csproj",
       "projectName": "HomeWorkClass05.CreateDog",
-      "projectPath": "C:\\Users\\Jsn\\source\\repos\\Desmer11\\CSharp.Homework\\Homework.Class.05\\Task.01.CreateDog\\HomeWorkClass05.CreateDog.csproj",
+      "projectPath": "C:\\Users\\Jsn\\source\\repos\\Qinshift\\CSharp.Homework\\Homework.Class.05\\Task.01.CreateDog\\HomeWorkClass05.CreateDog.csproj",
       "packagesPath": "C:\\Users\\Jsn\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jsn\\source\\repos\\Desmer11\\CSharp.Homework\\Homework.Class.05\\Task.01.CreateDog\\obj\\",
+      "outputPath": "C:\\Users\\Jsn\\source\\repos\\Qinshift\\CSharp.Homework\\Homework.Class.05\\Task.01.CreateDog\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Jsn\\AppData\\Roaming\\NuGet\\NuGet.Config",

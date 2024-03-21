@@ -1,0 +1,14 @@
+C:\Users\Jsn\source\repos\Projects\Constructor\Constructor.Exercise\Shape.Class\bin\Debug\net6.0\Shape.Class.exe
+C:\Users\Jsn\source\repos\Projects\Constructor\Constructor.Exercise\Shape.Class\bin\Debug\net6.0\Shape.Class.deps.json
+C:\Users\Jsn\source\repos\Projects\Constructor\Constructor.Exercise\Shape.Class\bin\Debug\net6.0\Shape.Class.runtimeconfig.json
+C:\Users\Jsn\source\repos\Projects\Constructor\Constructor.Exercise\Shape.Class\bin\Debug\net6.0\Shape.Class.dll
+C:\Users\Jsn\source\repos\Projects\Constructor\Constructor.Exercise\Shape.Class\bin\Debug\net6.0\Shape.Class.pdb
+C:\Users\Jsn\source\repos\Projects\Constructor\Constructor.Exercise\Shape.Class\obj\Debug\net6.0\Shape.Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jsn\source\repos\Projects\Constructor\Constructor.Exercise\Shape.Class\obj\Debug\net6.0\Shape.Class.AssemblyInfoInputs.cache
+C:\Users\Jsn\source\repos\Projects\Constructor\Constructor.Exercise\Shape.Class\obj\Debug\net6.0\Shape.Class.AssemblyInfo.cs
+C:\Users\Jsn\source\repos\Projects\Constructor\Constructor.Exercise\Shape.Class\obj\Debug\net6.0\Shape.Class.csproj.CoreCompileInputs.cache
+C:\Users\Jsn\source\repos\Projects\Constructor\Constructor.Exercise\Shape.Class\obj\Debug\net6.0\Shape.Class.dll
+C:\Users\Jsn\source\repos\Projects\Constructor\Constructor.Exercise\Shape.Class\obj\Debug\net6.0\refint\Shape.Class.dll
+C:\Users\Jsn\source\repos\Projects\Constructor\Constructor.Exercise\Shape.Class\obj\Debug\net6.0\Shape.Class.pdb
+C:\Users\Jsn\source\repos\Projects\Constructor\Constructor.Exercise\Shape.Class\obj\Debug\net6.0\Shape.Class.genruntimeconfig.cache
+C:\Users\Jsn\source\repos\Projects\Constructor\Constructor.Exercise\Shape.Class\obj\Debug\net6.0\ref\Shape.Class.dll
