@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jsn\\source\\repos\\Qinshift\\CSharp.Homework\\Homework.Class.06\\Exercise.03\\Exercise.03.csproj",
+      "projectUniqueName": "C:\\Users\\Jsn\\Source\\Repos\\Desmer11\\CSharp.Homework\\Homework.Class.06\\Exercise.03\\Exercise.03.csproj",
       "projectName": "Exercise.03",
-      "projectPath": "C:\\Users\\Jsn\\source\\repos\\Qinshift\\CSharp.Homework\\Homework.Class.06\\Exercise.03\\Exercise.03.csproj",
+      "projectPath": "C:\\Users\\Jsn\\Source\\Repos\\Desmer11\\CSharp.Homework\\Homework.Class.06\\Exercise.03\\Exercise.03.csproj",
       "packagesPath": "C:\\Users\\Jsn\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jsn\\source\\repos\\Qinshift\\CSharp.Homework\\Homework.Class.06\\Exercise.03\\obj\\",
+      "outputPath": "C:\\Users\\Jsn\\Source\\Repos\\Desmer11\\CSharp.Homework\\Homework.Class.06\\Exercise.03\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Jsn\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -64,13 +64,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file C:\\Users\\Jsn\\source\\repos\\Qinshift\\CSharp.Homework\\Homework.Class.06\\Exercise.03\\obj\\project.nuget.cache : Value cannot be null.\r\nParameter name: value"
-    }
-  ]
+  }
 }

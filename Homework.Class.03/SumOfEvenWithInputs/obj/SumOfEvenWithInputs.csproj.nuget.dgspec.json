@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jsn\\source\\repos\\Qinshift\\CSharp.Homework\\Homework.Class.03\\SumOfEvenWithInputs\\SumOfEvenWithInputs.csproj": {}
+    "C:\\Users\\Jsn\\Source\\Repos\\Desmer11\\CSharp.Homework\\Homework.Class.03\\SumOfEvenWithInputs\\SumOfEvenWithInputs.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jsn\\source\\repos\\Qinshift\\CSharp.Homework\\Homework.Class.03\\SumOfEvenWithInputs\\SumOfEvenWithInputs.csproj": {
+    "C:\\Users\\Jsn\\Source\\Repos\\Desmer11\\CSharp.Homework\\Homework.Class.03\\SumOfEvenWithInputs\\SumOfEvenWithInputs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jsn\\source\\repos\\Qinshift\\CSharp.Homework\\Homework.Class.03\\SumOfEvenWithInputs\\SumOfEvenWithInputs.csproj",
+        "projectUniqueName": "C:\\Users\\Jsn\\Source\\Repos\\Desmer11\\CSharp.Homework\\Homework.Class.03\\SumOfEvenWithInputs\\SumOfEvenWithInputs.csproj",
         "projectName": "SumOfEvenWithInputs",
-        "projectPath": "C:\\Users\\Jsn\\source\\repos\\Qinshift\\CSharp.Homework\\Homework.Class.03\\SumOfEvenWithInputs\\SumOfEvenWithInputs.csproj",
+        "projectPath": "C:\\Users\\Jsn\\Source\\Repos\\Desmer11\\CSharp.Homework\\Homework.Class.03\\SumOfEvenWithInputs\\SumOfEvenWithInputs.csproj",
         "packagesPath": "C:\\Users\\Jsn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jsn\\source\\repos\\Qinshift\\CSharp.Homework\\Homework.Class.03\\SumOfEvenWithInputs\\obj\\",
+        "outputPath": "C:\\Users\\Jsn\\Source\\Repos\\Desmer11\\CSharp.Homework\\Homework.Class.03\\SumOfEvenWithInputs\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jsn\\AppData\\Roaming\\NuGet\\NuGet.Config",

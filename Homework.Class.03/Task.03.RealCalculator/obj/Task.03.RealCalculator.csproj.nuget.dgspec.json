@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jsn\\source\\repos\\Qinshift\\CSharp.Homework\\Homework.Class.03\\Task.03.RealCalculator\\Task.03.RealCalculator.csproj": {}
+    "C:\\Users\\Jsn\\Source\\Repos\\Desmer11\\CSharp.Homework\\Homework.Class.03\\Task.03.RealCalculator\\Task.03.RealCalculator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jsn\\source\\repos\\Qinshift\\CSharp.Homework\\Homework.Class.03\\Task.03.RealCalculator\\Task.03.RealCalculator.csproj": {
+    "C:\\Users\\Jsn\\Source\\Repos\\Desmer11\\CSharp.Homework\\Homework.Class.03\\Task.03.RealCalculator\\Task.03.RealCalculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jsn\\source\\repos\\Qinshift\\CSharp.Homework\\Homework.Class.03\\Task.03.RealCalculator\\Task.03.RealCalculator.csproj",
+        "projectUniqueName": "C:\\Users\\Jsn\\Source\\Repos\\Desmer11\\CSharp.Homework\\Homework.Class.03\\Task.03.RealCalculator\\Task.03.RealCalculator.csproj",
         "projectName": "Task.03.RealCalculator",
-        "projectPath": "C:\\Users\\Jsn\\source\\repos\\Qinshift\\CSharp.Homework\\Homework.Class.03\\Task.03.RealCalculator\\Task.03.RealCalculator.csproj",
+        "projectPath": "C:\\Users\\Jsn\\Source\\Repos\\Desmer11\\CSharp.Homework\\Homework.Class.03\\Task.03.RealCalculator\\Task.03.RealCalculator.csproj",
         "packagesPath": "C:\\Users\\Jsn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jsn\\source\\repos\\Qinshift\\CSharp.Homework\\Homework.Class.03\\Task.03.RealCalculator\\obj\\",
+        "outputPath": "C:\\Users\\Jsn\\Source\\Repos\\Desmer11\\CSharp.Homework\\Homework.Class.03\\Task.03.RealCalculator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jsn\\AppData\\Roaming\\NuGet\\NuGet.Config",

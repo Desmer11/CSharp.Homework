@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jsn\\source\\repos\\Qinshift\\CSharp.Homework\\Homework.Class.03\\Task.02.StudentGroup\\Task.02.StudentGroup.csproj",
+      "projectUniqueName": "C:\\Users\\Jsn\\Source\\Repos\\Desmer11\\CSharp.Homework\\Homework.Class.03\\Task.02.StudentGroup\\Task.02.StudentGroup.csproj",
       "projectName": "Task.02.StudentGroup",
-      "projectPath": "C:\\Users\\Jsn\\source\\repos\\Qinshift\\CSharp.Homework\\Homework.Class.03\\Task.02.StudentGroup\\Task.02.StudentGroup.csproj",
+      "projectPath": "C:\\Users\\Jsn\\Source\\Repos\\Desmer11\\CSharp.Homework\\Homework.Class.03\\Task.02.StudentGroup\\Task.02.StudentGroup.csproj",
       "packagesPath": "C:\\Users\\Jsn\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jsn\\source\\repos\\Qinshift\\CSharp.Homework\\Homework.Class.03\\Task.02.StudentGroup\\obj\\",
+      "outputPath": "C:\\Users\\Jsn\\Source\\Repos\\Desmer11\\CSharp.Homework\\Homework.Class.03\\Task.02.StudentGroup\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Jsn\\AppData\\Roaming\\NuGet\\NuGet.Config",

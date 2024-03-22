@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Class.09.Task02", "Class.09.Task02", "{F73F43B2-9C46-4A7D-A456-55815A89A509}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassAnimal", "ClassAnimal\ClassAnimal.csproj", "{4C1F1291-157B-480B-8EBF-6E97D0F5D0E7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Class.08.Task.01.LINQ", "Class.09.Task.01.LINQ\Class.08.Task.01.LINQ.csproj", "{12B58C1D-C37D-4825-8EA6-BE13C71CAA53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C1F1291-157B-480B-8EBF-6E97D0F5D0E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C1F1291-157B-480B-8EBF-6E97D0F5D0E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C1F1291-157B-480B-8EBF-6E97D0F5D0E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C1F1291-157B-480B-8EBF-6E97D0F5D0E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12B58C1D-C37D-4825-8EA6-BE13C71CAA53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12B58C1D-C37D-4825-8EA6-BE13C71CAA53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12B58C1D-C37D-4825-8EA6-BE13C71CAA53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12B58C1D-C37D-4825-8EA6-BE13C71CAA53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4C1F1291-157B-480B-8EBF-6E97D0F5D0E7} = {F73F43B2-9C46-4A7D-A456-55815A89A509}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4DA23EC0-42EE-425B-A109-6B3C0355ECAB}
+	EndGlobalSection
+EndGlobal

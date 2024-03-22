@@ -1,0 +1,14 @@
+C:\Users\Jsn\source\repos\Desmer11\CSharp.Homework\Homework.Class.09\Homework.Class.09\Class.08.Task.01.LINQ\bin\Debug\net6.0\Class.08.Task.01.LINQ.exe
+C:\Users\Jsn\source\repos\Desmer11\CSharp.Homework\Homework.Class.09\Homework.Class.09\Class.08.Task.01.LINQ\bin\Debug\net6.0\Class.08.Task.01.LINQ.deps.json
+C:\Users\Jsn\source\repos\Desmer11\CSharp.Homework\Homework.Class.09\Homework.Class.09\Class.08.Task.01.LINQ\bin\Debug\net6.0\Class.08.Task.01.LINQ.runtimeconfig.json
+C:\Users\Jsn\source\repos\Desmer11\CSharp.Homework\Homework.Class.09\Homework.Class.09\Class.08.Task.01.LINQ\bin\Debug\net6.0\Class.08.Task.01.LINQ.dll
+C:\Users\Jsn\source\repos\Desmer11\CSharp.Homework\Homework.Class.09\Homework.Class.09\Class.08.Task.01.LINQ\bin\Debug\net6.0\Class.08.Task.01.LINQ.pdb
+C:\Users\Jsn\source\repos\Desmer11\CSharp.Homework\Homework.Class.09\Homework.Class.09\Class.08.Task.01.LINQ\obj\Debug\net6.0\Class.08.Task.01.LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jsn\source\repos\Desmer11\CSharp.Homework\Homework.Class.09\Homework.Class.09\Class.08.Task.01.LINQ\obj\Debug\net6.0\Class.08.Task.01.LINQ.AssemblyInfoInputs.cache
+C:\Users\Jsn\source\repos\Desmer11\CSharp.Homework\Homework.Class.09\Homework.Class.09\Class.08.Task.01.LINQ\obj\Debug\net6.0\Class.08.Task.01.LINQ.AssemblyInfo.cs
+C:\Users\Jsn\source\repos\Desmer11\CSharp.Homework\Homework.Class.09\Homework.Class.09\Class.08.Task.01.LINQ\obj\Debug\net6.0\Class.08.Task.01.LINQ.csproj.CoreCompileInputs.cache
+C:\Users\Jsn\source\repos\Desmer11\CSharp.Homework\Homework.Class.09\Homework.Class.09\Class.08.Task.01.LINQ\obj\Debug\net6.0\Class.08.Task.01.LINQ.dll
+C:\Users\Jsn\source\repos\Desmer11\CSharp.Homework\Homework.Class.09\Homework.Class.09\Class.08.Task.01.LINQ\obj\Debug\net6.0\refint\Class.08.Task.01.LINQ.dll
+C:\Users\Jsn\source\repos\Desmer11\CSharp.Homework\Homework.Class.09\Homework.Class.09\Class.08.Task.01.LINQ\obj\Debug\net6.0\Class.08.Task.01.LINQ.pdb
+C:\Users\Jsn\source\repos\Desmer11\CSharp.Homework\Homework.Class.09\Homework.Class.09\Class.08.Task.01.LINQ\obj\Debug\net6.0\Class.08.Task.01.LINQ.genruntimeconfig.cache
+C:\Users\Jsn\source\repos\Desmer11\CSharp.Homework\Homework.Class.09\Homework.Class.09\Class.08.Task.01.LINQ\obj\Debug\net6.0\ref\Class.08.Task.01.LINQ.dll

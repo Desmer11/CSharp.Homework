@@ -1,15 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qoaUVQJFk+Z0nTqP0ppapdvItObOeaS9DkH+A9Hr6y+W5ENoA+dnsgEAR5J/EjVOZkXW6sIZ+ofGWaHytNo3nw==",
+  "dgSpecHash": "MV93aCKJ2pjkf1ICwO3IjKGl4F7zZAqKCsGr/qPyqVNmptjJZY/d5rkuO2rtd0JD5cLcdW03QscmblN0d1c/yA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jsn\\source\\repos\\Qinshift\\CSharp.Homework\\Homework.Class.06\\Exercise.03\\Exercise.03.csproj",
+  "projectFilePath": "C:\\Users\\Jsn\\Source\\Repos\\Desmer11\\CSharp.Homework\\Homework.Class.06\\Exercise.03\\Exercise.03.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file C:\\Users\\Jsn\\source\\repos\\Qinshift\\CSharp.Homework\\Homework.Class.06\\Exercise.03\\obj\\project.nuget.cache : Value cannot be null.\r\nParameter name: value"
-    }
-  ]
+  "logs": []
 }
