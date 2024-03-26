@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\ClassAnimal",
+    "\\ClassAnimal\\Enums"
   ],
-  "SelectedNode": "\\Homework.Class.09.sln",
+  "SelectedNode": "\\ClassAnimal\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

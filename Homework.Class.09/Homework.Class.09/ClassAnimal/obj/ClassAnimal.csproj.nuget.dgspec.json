@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jsn\\Source\\Repos\\Desmer11\\CSharp.Homework\\Homework.Class.09\\Homework.Class.09\\ClassAnimal\\ClassAnimal.csproj": {}
+    "C:\\Users\\Jsn\\source\\repos\\Desmer11\\CSharp.Homework\\Homework.Class.09\\Homework.Class.09\\ClassAnimal\\ClassAnimal.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jsn\\Source\\Repos\\Desmer11\\CSharp.Homework\\Homework.Class.09\\Homework.Class.09\\ClassAnimal\\ClassAnimal.csproj": {
+    "C:\\Users\\Jsn\\source\\repos\\Desmer11\\CSharp.Homework\\Homework.Class.09\\Homework.Class.09\\ClassAnimal\\ClassAnimal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jsn\\Source\\Repos\\Desmer11\\CSharp.Homework\\Homework.Class.09\\Homework.Class.09\\ClassAnimal\\ClassAnimal.csproj",
+        "projectUniqueName": "C:\\Users\\Jsn\\source\\repos\\Desmer11\\CSharp.Homework\\Homework.Class.09\\Homework.Class.09\\ClassAnimal\\ClassAnimal.csproj",
         "projectName": "ClassAnimal",
-        "projectPath": "C:\\Users\\Jsn\\Source\\Repos\\Desmer11\\CSharp.Homework\\Homework.Class.09\\Homework.Class.09\\ClassAnimal\\ClassAnimal.csproj",
+        "projectPath": "C:\\Users\\Jsn\\source\\repos\\Desmer11\\CSharp.Homework\\Homework.Class.09\\Homework.Class.09\\ClassAnimal\\ClassAnimal.csproj",
         "packagesPath": "C:\\Users\\Jsn\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Jsn\\source\\repos\\Desmer11\\CSharp.Homework\\Homework.Class.09\\Homework.Class.09\\ClassAnimal\\obj\\",
         "projectStyle": "PackageReference",

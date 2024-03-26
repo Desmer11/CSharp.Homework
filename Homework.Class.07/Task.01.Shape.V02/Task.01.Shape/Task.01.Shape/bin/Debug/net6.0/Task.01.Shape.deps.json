@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Task.01.Shape/1.0.0": {
+        "dependencies": {
+          "Task.01.Shape.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Task.01.Shape.dll": {}
+        }
+      },
+      "Task.01.Shape.Domain/1.0.0": {
+        "runtime": {
+          "Task.01.Shape.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Task.01.Shape/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Task.01.Shape.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

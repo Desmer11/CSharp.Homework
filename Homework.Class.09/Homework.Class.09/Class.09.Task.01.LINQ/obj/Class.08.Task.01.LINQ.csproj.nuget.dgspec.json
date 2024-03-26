@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jsn\\Source\\Repos\\Desmer11\\CSharp.Homework\\Homework.Class.09\\Homework.Class.09\\Class.09.Task.01.LINQ\\Class.08.Task.01.LINQ.csproj": {}
+    "C:\\Users\\Jsn\\source\\repos\\Desmer11\\CSharp.Homework\\Homework.Class.09\\Homework.Class.09\\Class.09.Task.01.LINQ\\Class.08.Task.01.LINQ.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jsn\\Source\\Repos\\Desmer11\\CSharp.Homework\\Homework.Class.09\\Homework.Class.09\\Class.09.Task.01.LINQ\\Class.08.Task.01.LINQ.csproj": {
+    "C:\\Users\\Jsn\\source\\repos\\Desmer11\\CSharp.Homework\\Homework.Class.09\\Homework.Class.09\\Class.09.Task.01.LINQ\\Class.08.Task.01.LINQ.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jsn\\Source\\Repos\\Desmer11\\CSharp.Homework\\Homework.Class.09\\Homework.Class.09\\Class.09.Task.01.LINQ\\Class.08.Task.01.LINQ.csproj",
+        "projectUniqueName": "C:\\Users\\Jsn\\source\\repos\\Desmer11\\CSharp.Homework\\Homework.Class.09\\Homework.Class.09\\Class.09.Task.01.LINQ\\Class.08.Task.01.LINQ.csproj",
         "projectName": "Class.08.Task.01.LINQ",
-        "projectPath": "C:\\Users\\Jsn\\Source\\Repos\\Desmer11\\CSharp.Homework\\Homework.Class.09\\Homework.Class.09\\Class.09.Task.01.LINQ\\Class.08.Task.01.LINQ.csproj",
+        "projectPath": "C:\\Users\\Jsn\\source\\repos\\Desmer11\\CSharp.Homework\\Homework.Class.09\\Homework.Class.09\\Class.09.Task.01.LINQ\\Class.08.Task.01.LINQ.csproj",
         "packagesPath": "C:\\Users\\Jsn\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Jsn\\source\\repos\\Desmer11\\CSharp.Homework\\Homework.Class.09\\Homework.Class.09\\Class.09.Task.01.LINQ\\obj\\",
         "projectStyle": "PackageReference",
